@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.aux
+*.log
+*.out
+*.pdf
+!skills/cv-hazirla/examples/*.pdf
+cv-*/
