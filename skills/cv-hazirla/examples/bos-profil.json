@@ -1,0 +1,14 @@
+{
+  "dil": "tr",
+  "kisisel": {"ad_soyad": "", "unvan": "", "sehir": "", "telefon": "", "eposta": "", "linkedin": "", "github": "", "web": ""},
+  "ozet": "",
+  "bolum_sirasi": ["ozet", "deneyim", "egitim", "yetkinlikler", "projeler", "basarilar", "sertifikalar", "diller", "topluluk"],
+  "deneyim": [],
+  "egitim": [],
+  "yetkinlikler": [],
+  "projeler": [],
+  "basarilar": [],
+  "sertifikalar": [],
+  "diller": [],
+  "topluluk": []
+}

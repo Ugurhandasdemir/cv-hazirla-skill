@@ -1,0 +1,69 @@
+{
+  "dil": "tr",
+  "kisisel": {
+    "ad_soyad": "Ayşe Yılmaz",
+    "unvan": "Yazılım Mühendisi",
+    "sehir": "Ankara, Türkiye",
+    "telefon": "+90 555 000 00 00",
+    "eposta": "ayse.yilmaz@example.com",
+    "linkedin": "https://www.linkedin.com/in/ornek-ayse-yilmaz/",
+    "github": "https://github.com/ornek-ayse",
+    "web": ""
+  },
+  "ozet": "Bilgisayar Mühendisliği son sınıf öğrencisiyim ve backend geliştirme ile veri işleme alanlarında çalışıyorum. Python ve FastAPI ile REST servisleri yazdım, PostgreSQL üzerinde sorgu optimizasyonu yaptım ve geliştirdiğim servisleri Docker ile canlıya aldım. Çözümü tahminle değil ölçerek seçmeyi önemsiyorum.",
+  "bolum_sirasi": ["ozet", "deneyim", "egitim", "yetkinlikler", "projeler", "basarilar", "sertifikalar", "diller", "topluluk"],
+  "deneyim": [
+    {
+      "tur": "staj",
+      "kurum": "Örnek Teknoloji A.Ş.",
+      "sehir": "Ankara, Türkiye",
+      "pozisyon": "Backend Stajyeri",
+      "calisma_sekli": "Hibrit",
+      "baslangic": "07/2025",
+      "bitis": "09/2025",
+      "maddeler": [
+        "FastAPI ile sipariş takibi için 12 uçlu bir REST servisi geliştirdim ve birim testleriyle %85 kapsama sağladım.",
+        "PostgreSQL'de yavaş çalışan 20 raporu indeks ve sorgu düzenlemesiyle ortalama 4 saniyeden 0,6 saniyeye indirdim."
+      ],
+      "teknolojiler": ["Python", "FastAPI", "PostgreSQL", "Docker", "pytest", "Git"]
+    }
+  ],
+  "egitim": [
+    {
+      "okul": "Örnek Üniversitesi",
+      "bolum": "Bilgisayar Mühendisliği",
+      "derece": "Lisans",
+      "sehir": "Ankara, Türkiye",
+      "baslangic": "09/2022",
+      "bitis": "06/2026",
+      "durum": "ogrenci",
+      "gano": "3.20 / 4.00"
+    }
+  ],
+  "yetkinlikler": [
+    {"kategori": "Diller", "ogeler": ["Python", "SQL", "JavaScript"]},
+    {"kategori": "Backend & Veri", "ogeler": ["FastAPI", "Django", "PostgreSQL", "Redis", "pandas"]},
+    {"kategori": "Araçlar", "ogeler": ["Docker", "Git", "Linux", "GitHub Actions"]}
+  ],
+  "projeler": [
+    {
+      "baslik": "Kütüphane Rezervasyon Sistemi",
+      "link": "https://github.com/ornek-ayse/kutuphane",
+      "odul": "",
+      "maddeler": [
+        "Öğrencilerin çalışma masası ayırdığı bir web uygulaması geliştirdim, dönem boyunca 300 öğrenci kullandı."
+      ],
+      "teknolojiler": ["Django", "PostgreSQL", "Bootstrap"]
+    }
+  ],
+  "basarilar": [
+    {"baslik": "Örnek Hackathon -- İkincilik", "yil": "2025", "aciklama": "Afet bölgesinde ihtiyaç eşleştiren bir uygulama geliştirdik."}
+  ],
+  "sertifikalar": [
+    {"ad": "AWS Cloud Practitioner", "kurum": "Amazon Web Services", "tarih": "03/2025"}
+  ],
+  "diller": [
+    {"dil": "İngilizce", "seviye": "B2"}
+  ],
+  "topluluk": []
+}
